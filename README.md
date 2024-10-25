@@ -27,7 +27,7 @@ NOTE: While Viper Offensive Toolkit was designed to work with all Debian based L
    - `sudo ./Viper_Setup.sh`
   
 ### Optional
-Install a New Desktop Enviroment
+#### Install a New Desktop Enviroment
 1. Make Desktop_Env.sh exectuable.
      -`sudo chmod +x Desktop_Env.sh`
 2. Run Desktop_Env.sh in the Tools Directory.
