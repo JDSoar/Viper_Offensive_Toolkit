@@ -45,7 +45,6 @@ NOTE: While Viper Offensive Toolkit was designed to work with all Debian based L
 - Openvpn
 - Terminator
 - Tmux
-- Default-jre
 - Curl
 - Httpx
 
