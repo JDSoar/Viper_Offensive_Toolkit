@@ -29,9 +29,9 @@ NOTE: While Viper Offensive Toolkit was designed to work with all Debian based L
 ### Optional
 #### Install a New Desktop Enviroment
 1. Make Desktop_Env.sh exectuable.
-     -`sudo chmod +x Desktop_Env.sh`
+     - `sudo chmod +x Desktop_Env.sh`
 2. Run Desktop_Env.sh in the Tools Directory.
-     -`./Desktop_Env.sh`
+     - `./Desktop_Env.sh`
 3. Choose your desired desktop background KDE/XFCE.
 4. After the installation finishes, login to the new enviroment.
 5. If you installed KDE, run the desktop envroment customization script.
