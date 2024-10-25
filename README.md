@@ -25,7 +25,18 @@ NOTE: While Viper Offensive Toolkit was designed to work with all Debian based L
    - `sudo chmod +x Viper_Setup.sh`
 7. Run the installation script.
    - `sudo ./Viper_Setup.sh`
-   
+  
+### Optional
+Install a New Desktop Enviroment
+1. Make Desktop_Env.sh exectuable.
+     -`sudo chmod +x Desktop_Env.sh`
+2. Run Desktop_Env.sh in the Tools Directory.
+     -`./Desktop_Env.sh`
+3. Choose your desired desktop background KDE/XFCE.
+4. After the installation finishes, login to the new enviroment.
+5. If you installed KDE, run the desktop envroment customization script.
+     - `./KDE_Setup.sh`
+
 
 ## Ethical Hacking Tools Included
 
